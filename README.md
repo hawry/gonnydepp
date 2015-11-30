@@ -8,7 +8,7 @@ Anyway, GOnnyDep(p) (here on GD for convenience) is a very simple local system b
 
 ## Levels
 
-There are currently three different levels of requirements: `must`,`should` and `might`.
+There are currently three different levels of requirements: `must`,`should` and `might`. Default is `should`.
 
 **MUST** All binaries/executables in this group **must** exist in the PATH.
 
